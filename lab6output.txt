@@ -1,0 +1,22 @@
+Script started on Thu Nov  3 09:40:43 2016
+[?1034hbash-3.2$ python2[K3 p[KLab6.py
+Dictionary {'barb': 20, 'tom': 17, 'joe': 10, 'sue': 18, 'sally': 15}
+Set of Names and Scores tuples:  {('sue', 18), ('joe', 10), ('sally', 15), ('barb', 20), ('tom', 17)}
+Frozenset of Names and Ages tuples:  frozenset({('sally', 22), ('sue', 18), ('joe', 20), ('barb', 19), ('tom', 17)})
+Intersection of set and frozenset {('sue', 18), ('tom', 17)}
+Updating dictionary
+barb 20
+joe 10
+john 19
+sally 19
+sue 20
+Median of updated dictionary:  19
+Retrieving score for barb
+20
+Retrieving score for ana
+Error, name not found in dictionary
+-1
+bash-3.2$ exit
+exit
+
+Script done on Thu Nov  3 09:40:59 2016

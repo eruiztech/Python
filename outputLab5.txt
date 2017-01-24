@@ -1,0 +1,18 @@
+Script started on Thu Oct 20 18:06:33 2016
+[?1034hbash-3.2$ python3 Lab5.py
+Data for Target
+Monday , share price is $ 69.02 , the highest of the week.
+Friday , share price is $ 67.09 , the lowest of the week.
+Highest trading volume is 4059500 shares, happended on Friday
+This week's average closing price is $ 67.9
+The highest trading volume of the last 20 years is: 39770700 , which happened on 2008-11-19
+Data for Microsoft
+Monday , share price is $ 58.02 , the highest of the week.
+Friday , share price is $ 56.87 , the lowest of the week.
+Highest trading volume is 27402500 shares, happended on Thursday
+This week's average closing price is $ 57.17
+The highest trading volume of the last 20 years is: 591052200 , which happened on 2006-04-28
+bash-3.2$ exit
+exit
+
+Script done on Thu Oct 20 18:06:45 2016

@@ -1,0 +1,45 @@
+Script started on Thu Sep 29 09:34:29 2016
+[?1034hbash-3.2$ python bmi.py
+Lab 2
+Calculate your BMI
+Would you like to use (1) kilograms/meters or (2) pounds/inches as units?
+Please enter 1 or 2
+1
+Weight in kilograms: 55
+Height in meters: 1.5
+Your BMI is: 24
+you have a normal BMI
+bash-3.2$ python bmi.py
+Lab 2
+Calculate your BMI
+Would you like to use (1) kilograms/meters or (2) pounds/inches as units?
+Please enter 1 or 2
+2
+Weight in pounds: 135
+Height in inches: 60
+Your BMI is: 26
+you are considered overweight
+bash-3.2$ python bmi.py
+Lab 2
+Calculate your BMI
+Would you like to use (1) kilograms/meters or (2) pounds/inches as units?
+Please enter 1 or 2
+1
+Weight in kilograms: 72.57
+Height in meters: 1.5
+Your BMI is: 32
+you are considered obese
+bash-3.2$ python bmi.py
+Lab 2
+Calculate your BMI
+Would you like to use (1) kilograms/meters or (2) pounds/inches as units?
+Please enter 1 or 2
+2
+Weight in pounds: 220
+Height in inches: 60
+Your BMI is: 42
+you are extremely obese
+bash-3.2$ exit
+exit
+
+Script done on Thu Sep 29 09:38:32 2016

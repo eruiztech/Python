@@ -1,0 +1,52 @@
+Script started on Thu Oct  6 17:46:10 2016
+[?1034hbash-3.2$ python3 MonteCarlo.py
+Lab 3
+Monte Carlo Problem
+
+Value of n:  10000
+Pi value:  3.1392
+Execution time:  0.018684864044189453  seconds
+
+Value of n:  100000
+Pi value:  3.14632
+Execution time:  0.1808629035949707  seconds
+
+Value of n:  1000000
+Pi value:  3.138136
+Execution time:  1.774266004562378  seconds
+
+bash-3.2$ python3 SalesReceipt.py
+Lab 3
+Sales Receipt Problem
+
+Item costs
+$ 80
+$ 125
+$ 45.5
+Tax rate:  8.0 %
+Subtotal: $ 250.5
+Subtotal w/ tax: $ 20.04
+Total is: $ 270.54 
+
+Item costs
+$ 95
+Tax rate:  10.5 %
+Subtotal: $ 95.0
+Subtotal w/ tax: $ 9.97
+Total is: $ 104.97 
+
+Item costs
+$ 12
+$ 5.5
+$ 6.5
+$ 7.5
+$ 9.0
+Tax rate:  7.0 %
+Subtotal: $ 40.5
+Subtotal w/ tax: $ 2.84
+Total is: $ 43.34 
+
+bash-3.2$ exit
+exit
+
+Script done on Thu Oct  6 17:46:29 2016
